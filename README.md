@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I am Marvel by name. I am a Software Developer who focuses on the web aspect and data structure.
+###I am Marvel by name. I am a Software Developer who focuses on the web aspect and data structure.
 ![Profile views](https://gpvc.arturio.dev/[Bountukp20])
 
 <!--
@@ -16,6 +16,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am very much interested in becoming a Robotics and AI Engineer.
 
-[![Bountukp20 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Bountukp20=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Bountukp20 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Bountukp20&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Bountukp20&theme=algolia&show_icons=true)](https://github.com/Bountukp20)
