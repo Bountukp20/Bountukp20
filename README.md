@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on any project in my scope
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/marvel-ukpong-62690023a/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marvel-ukpong-62690023a/">LinkedIn</a>
 - Pronouns: He/Him.
 - ⚡ Fun fact: I am very much interested in becoming a Robotics and AI Engineer.
 
