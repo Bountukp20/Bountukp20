@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>I am Marvel by name. I am a Software Developer who focuses on the web aspect and data structure.</h2>
-![](https://visitor-badge.laobi.icu/badge?page_id=Bounukp20)
+![](https://visitor-badge.laobi.icu/badge?page_id=Bounukp20.Bountukp20)
 
 [![Github](https://img.shields.io/github/followers/Bountukp20?label=Follow&style=social)](https://github.com/Bountukp20)
 <!--
@@ -34,4 +34,5 @@ Here are some ideas to get you started:-->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
