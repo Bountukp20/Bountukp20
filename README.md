@@ -1,8 +1,6 @@
 ### Hi there 👋
 <h2>I am Marvel by name. I am a Software Developer who focuses on the web aspect and data structure.</h2>
-![](https://visitor-badge.laobi.icu/badge?page_id=Bounukp20.Bountukp20)
-
-[![Github](https://img.shields.io/github/followers/Bountukp20?label=Follow&style=social)](https://github.com/Bountukp20)
+![](https://komarev.com/ghpvc/?username=Bountukp20&color=dc143c) [![Github](https://img.shields.io/github/followers/Bountukp20?label=Follow&style=social)](https://github.com/Bountukp20)
 <!--
 **Bountukp20/Bountukp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +32,6 @@ Here are some ideas to get you started:-->
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZElEQVR4Ae2URVYEQRBEe4dcAIer1H5ki6xquAC2H70Hegq09uhR6jFLLOnASaT8jeZ7MT4dvzIzOhuWqXRxVrRLc6pdnte5iIs2V3/XVkXRupRB5rfF2Ro3NAMwrcu638lLcxIGngAcQjgDoO3RADYqyh0ABvEAtPv8sXSRAKCOjgCJ8IpfxCWUnjGc71AMeRxLC8oRQKPttIX4BdbBEolcam+F9P4yEdf77yaP78XUyZOaPnnSuQivJ48eZJD53hLVuCFXBvPTxxpMf9Xxvd8IdpZImswhnJKbck0ek/BpvbIBQKtNAPiNM4CFOQQDG2lnACydJYC2gXAH6PAIsITCBgDxMwF4x/GgUzHkceTj4AAonPLLODReoztZaI3etMTYTUuN37R0LuLK0hXMmzVuyJXSXMKgYwBoe0cBmFFHAHTXjwC/SbeEF3VhAsCidiiGMG/wO1y6OH4Zh8Zr3JyySPUMD+KthXmsO0kAAAAASUVORK5CYII=" height="40" style="vertical-align: top; margin: 4px">
+  <img src="[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZElEQVR4Ae2URVYEQRBEe4dcAIer1H5ki6xquAC2H70Hegq09uhR6jFLLOnASaT8jeZ7MT4dvzIzOhuWqXRxVrRLc6pdnte5iIs2V3/XVkXRupRB5rfF2Ro3NAMwrcu638lLcxIGngAcQjgDoO3RADYqyh0ABvEAtPv8sXSRAKCOjgCJ8IpfxCWUnjGc71AMeRxLC8oRQKPttIX4BdbBEolcam+F9P4yEdf77yaP78XUyZOaPnnSuQivJ48eZJD53hLVuCFXBvPTxxpMf9Xxvd8IdpZImswhnJKbck0ek/BpvbIBQKtNAPiNM4CFOQQDG2lnACydJYC2gXAH6PAIsITCBgDxMwF4x/GgUzHkceTj4AAonPLLODReoztZaI3etMTYTUuN37R0LuLK0hXMmzVuyJXSXMKgYwBoe0cBmFFHAHTXjwC/SbeEF3VhAsCidiiGMG/wO1y6OH4Zh8Zr3JyySPUMD+KthXmsO0kAAAAASUVORK5CYII="](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DSWQaLctn83MpjP8bFLKgJPetELF0TnVdg&usqp=CAU)" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://pandas.pydata.org/static/img/pandas.svg" height="40px" style="vertical-align: top; margin: 4px">
 </p>
