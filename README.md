@@ -30,9 +30,11 @@ Here are some ideas to get you started:-->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/panda/panda.png" alt="Panda" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pandas.pydata.org/static/img/pandas.svg">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZElEQVR4Ae2URVYEQRBEe4dcAIer1H5ki6xquAC2H70Hegq09uhR6jFLLOnASaT8jeZ7MT4dvzIzOhuWqXRxVrRLc6pdnte5iIs2V3/XVkXRupRB5rfF2Ro3NAMwrcu638lLcxIGngAcQjgDoO3RADYqyh0ABvEAtPv8sXSRAKCOjgCJ8IpfxCWUnjGc71AMeRxLC8oRQKPttIX4BdbBEolcam+F9P4yEdf77yaP78XUyZOaPnnSuQivJ48eZJD53hLVuCFXBvPTxxpMf9Xxvd8IdpZImswhnJKbck0ek/BpvbIBQKtNAPiNM4CFOQQDG2lnACydJYC2gXAH6PAIsITCBgDxMwF4x/GgUzHkceTj4AAonPLLODReoztZaI3etMTYTUuN37R0LuLK0hXMmzVuyJXSXMKgYwBoe0cBmFFHAHTXjwC/SbeEF3VhAsCidiiGMG/wO1y6OH4Zh8Zr3JyySPUMD+KthXmsO0kAAAAASUVORK5CYII=">
